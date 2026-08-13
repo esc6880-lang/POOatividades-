@@ -1,5 +1,7 @@
 package br.com;
-
 public class Carro {
- public int velocidade;
+ private int velocidade;
+private String modelo;
+private String cor;
+
 }
